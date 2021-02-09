@@ -1,6 +1,8 @@
 
 <h1 align="center">Discord Raid Tool [Debug]</h1>
 
+First of all I would like to give credit to Tex0x4E2, the original dev of this small app, he deserves credit for the hard work of creating the program
+
 # Features
 
 - [x] *Can load multipule tokens.*
